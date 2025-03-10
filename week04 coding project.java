@@ -377,8 +377,6 @@ public class week04_Coding_Project {
         	// return both variables and check if greater
         	return isHotOutside && moneyInPocket > 10.50;
         }
-
-        // STEP 13 - method to determine which popular brand of guitar is the cheapest
         
 }
 
